@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite :arrow_right: Dashboard
+
+Live link: https://goldipl.github.io/dashboard-react/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
